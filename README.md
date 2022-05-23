@@ -1,0 +1,2 @@
+# checkscript
+a test checkscript
