@@ -2,6 +2,3 @@
 This a untracked file 
 new line
 third line
-new line
-another line
-yet another line
